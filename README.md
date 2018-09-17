@@ -1,3 +1,12 @@
+# Lab 1 Electron.js
+
+Just run:
+```
+npm i
+npm start
+```
+make sure you have python 2 installed and node.js environment setup.
+
 # omr
 
 omr is a simple python2 **o**ptical **m**ark **r**ecognition script. It takes as input an image of an answered answer sheet and outputs which alternatives were marked. Scroll down for an example.
